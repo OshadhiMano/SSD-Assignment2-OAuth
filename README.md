@@ -1,1 +1,1 @@
-# SSD-Assignment2-OAuth
+# SSD-Assignment2-OAuth/OauthAssignment
