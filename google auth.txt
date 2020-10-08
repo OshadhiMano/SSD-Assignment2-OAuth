@@ -1,0 +1,12 @@
+projectName: 
+GoogleOauthApp
+
+Project Number: 
+fleet-bus-291907
+
+Prject number:675976748883
+
+
+ClientId: 675976748883-jsmc0trp7jtp5tfvdmq5o3v5714bo9n3.apps.googleusercontent.com
+
+Your client secret:rc2MGIVQcIfDNrh_livh7NFW
